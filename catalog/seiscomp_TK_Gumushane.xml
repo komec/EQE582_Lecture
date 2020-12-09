@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<seiscomp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0.11" xmlns="http://geofon.gfz-potsdam.de/ns/seiscomp3-schema/0.11">
+  <Inventory>
+    <network publicID="Network/20201282232" code="TK">
+      <start>10/29/16 3:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2903">
+        <start>10/29/16 3:00:00 AM</start>
+        <description>K?se, G?m??hane</description>
+        <latitude>40.208409</latitude>
+        <longitude>39.65864</longitude>
+        <elevation>1594</elevation>
+        <place>K?se</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>10/29/16 3:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+    <network publicID="Network/20201282232" code="TK">
+      <start>10/29/16 3:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2904">
+        <start>10/29/16 3:00:00 AM</start>
+        <description>?iran, G?m??hane</description>
+        <latitude>40.19031</latitude>
+        <longitude>39.11936</longitude>
+        <elevation>1443</elevation>
+        <place>?iran</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>10/29/16 3:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+    <network publicID="Network/20201282232" code="TK">
+      <start>1/1/19 3:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2905">
+        <start>1/1/19 3:00:00 AM</start>
+        <description>Torul, G?m??hane</description>
+        <latitude>40.560728</latitude>
+        <longitude>39.29482</longitude>
+        <elevation>954</elevation>
+        <place>Torul</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>1/1/19 3:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+    <network publicID="Network/20201282232" code="TK">
+      <start>11/8/18 3:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2906">
+        <start>11/8/18 3:00:00 AM</start>
+        <description>K?rt?n, G?m??hane</description>
+        <latitude>40.70208</latitude>
+        <longitude>39.0867</longitude>
+        <elevation>612</elevation>
+        <place>K?rt?n</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>11/8/18 3:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+    <network publicID="Network/20201282232" code="TK">
+      <start>3/23/10 2:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2901">
+        <start>3/23/10 2:00:00 AM</start>
+        <description>G?m??hane Merkez, G?m??hane</description>
+        <latitude>40.4487</latitude>
+        <longitude>39.4971</longitude>
+        <elevation>1164</elevation>
+        <place>G?m??hane Merkez</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>3/23/10 2:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+    <network publicID="Network/20201282232" code="TK">
+      <start>9/22/11 3:00:00 AM</start>
+      <description>National Strong Motion Network of Turkey</description>
+      <netClass>p</netClass>
+      <archive>dda</archive>
+      <restricted>false</restricted>
+      <shared>true</shared>
+      <station publicID="Network/20201282232" code="2902">
+        <start>9/22/11 3:00:00 AM</start>
+        <description>Kelkit, G?m??hane</description>
+        <latitude>40.12439</latitude>
+        <longitude>39.43658</longitude>
+        <elevation>1416</elevation>
+        <place>Kelkit</place>
+        <country>G?m??hane</country>
+        <affiliation>National Strong Motion Network of Turkey</affiliation>
+        <archive>dda</archive>
+        <restricted>false</restricted>
+        <shared>true</shared>
+        <sensorLocation publicID="" code="">
+          <start>9/22/11 3:00:00 AM</start>
+        </sensorLocation>
+      </station>
+    </network>
+  </Inventory>
+</seiscomp>
