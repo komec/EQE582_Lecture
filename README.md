@@ -1,4 +1,4 @@
-<p align="center">  <img src="./images/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 20% > </p>
+<p align="left">  <img src="./images/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 20% > </p>
 
 ---
 
@@ -15,6 +15,10 @@
 
 This repository covers six weeks of **_"EQE582_Introduction to Seismology"_** lecture applications. It starts with introductory to Python and proceeds with the seismology tools for **Earhquake and Structure Engineering** program graduate students.
 
+
+---
+Attend to [Slack App](https://app.slack.com/client/T01FY4SLLSW/C01FV26R0J1);an informal platform for **Q/A** discussions about Python coding and more, with your collegues.
+
 ---
 ## Contact
 
@@ -25,3 +29,5 @@ Ahu Kömeç Mutlu :smiley: [@komec](https://twitter.com/ahukomecmutlu)
 * [Python documenation](http://docs.python.org/)
 * Seismo-Live: http://seismo-live.org
 * [IPython/Jupyter notebook](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)
+
+---
